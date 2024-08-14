@@ -1,3 +1,4 @@
+![Banner](https://cdn.buymeacoffee.com/uploads/profile_pictures/2024/06/0wAOMbLA4Mj6YxFq.jpeg@300w_0e.webp)
 <h1 align="center">Hello world 🌎, I'm Emma Mora</h1>
 <h3 align="center">a Software Engineer Focused on Web and Cross-Platform Mobile Development from México</h3>
 
