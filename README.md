@@ -1,4 +1,3 @@
-![Banner](https://raw.githubusercontent.com/Emmanuelle20021/Emmanuelle20021/main/DALL%C2%B7E%202024-08-14%2013.38.37%20-%20A%20clean%20and%20modern%20banner%20for%20a%20GitHub%20profile%20with%20the%20username%20'EmmaMoraDev'.%20The%20primary%20color%20is%20a%20vibrant%20orange%2C%20and%20the%20design%20should%20incorpora.webp)
 <h1 align="center">Hello world 🌎, I'm Emma Mora</h1>
 <h3 align="center">a Software Engineer Focused on Web and Cross-Platform Mobile Development from México</h3>
 
