@@ -5,7 +5,7 @@
 
 - 🌱 I’m Currently Specializing in Mastering **Flutter and Dart**
 
-<!-- - 👨‍💻 All of my projects are available at [coming soon](coming soon) -->
+- 👨‍💻 All of my projects are available at [my portfolio](https://emmamora.website)
 
 - 📫 How to reach me **emmanu20021@gmail.com**
 
